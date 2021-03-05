@@ -3,7 +3,7 @@ class Question {
   final String question;
   final List<String> options;
 
-  Question(this.id, this.answer, this.question, this.options);
+  Question({this.id, this.answer, this.question, this.options});
 }
 
 const List sample_data = [
