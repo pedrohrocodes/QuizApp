@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+A quiz flutter project with dark and light theme.
 
 ## Getting Started
 
